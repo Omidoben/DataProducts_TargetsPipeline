@@ -1,0 +1,12 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+.Random.seed|object|402f20d069fb77b2|||||||||||||||
+canton_data|stem|c1613a287372a323|5a36e9c0b41827b8|41b61ecf55dbc788|1096394013||t20039.6280554293s|e4b7863e8c416308|461|rds|local|vector|||0.78||
+canton_plot|stem|e026a2b713ec90bf|53dd0deb98a65f6a|72d732d0e815f63b|-330805114||t20039.6280599867s|48750d0eec900075|86633|rds|local|vector|||0.05||
+commune_data|stem|59f18930a80d5af0|f0c219a7b903f08d|41b61ecf55dbc788|1786433508||t20039.628057627s|a1aec8c30e4819ce|370|rds|local|vector|||0.06||
+commune_plot|stem|a0ba2779d4005c73|7b5343d9c0480088|7ca95b528249e7de|-925139472||t20039.6280628437s|f0dfe0233fc2c8fd|86529|rds|local|vector|||0.02||
+get_data|function|aa616ec8acc373fd|||||||||||||||
+lux_data|stem|5be0a38642bea474|354235f7f1d21ea4|41b61ecf55dbc788|-1100894011||t20039.6280565513s|5d633802a788162b|231|rds|local|vector|||0.05||
+lux_plot|stem|747de82e1f45992e|0c32b8894f577ee4|ae8819929317da45|1991466695||t20039.6280617796s|ee5e8053fbd9f52d|86208|rds|local|vector|||0.04||
+make_plot|function|9afdea3663e08f4f|||||||||||||||
+my_doc|stem|69c1043dc1db1aaf|ef8bc2ce7f058727|67319518d454fe77|-798192088|my_doc.html*my_doc_files*my_doc.qmd|t20039.6336250804s|4dc3b92800bf9661|947406|file|local|vector|||45.57||
+unemp_data|stem|dac4b33ef40e6f76|3d8e5f857c63cf80|3c184942ca74f1d0|290879520||t20039.6280455164s|966f989b80b419d1|8807|rds|local|vector|||0||

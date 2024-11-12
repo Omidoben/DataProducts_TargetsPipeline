@@ -1,0 +1,21 @@
+---
+title: "Reading objects from a targets pipeline"
+format: html
+editor: visual
+author: "Benard Omido"
+date: today
+---
+
+This document loads three plots that were made using a \``{targets}`\` pipeline.
+
+```{r}
+targets::tar_read(lux_plot)
+```
+
+```{r}
+targets::tar_read(canton_plot)
+```
+
+```{r}
+targets::tar_read(commune_plot)
+```
